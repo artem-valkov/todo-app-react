@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://artem-valkov.github.io/react-gh-pages",
+  "homepage": "http://artem-valkov.github.io/todo-app-react",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
